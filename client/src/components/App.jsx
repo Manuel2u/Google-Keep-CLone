@@ -50,6 +50,7 @@ function App() {
         );
       })}
       <Footer />
+      <h1>Hello</h1>
     </div>
   );
 }
